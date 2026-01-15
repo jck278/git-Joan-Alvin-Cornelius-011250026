@@ -1,0 +1,12 @@
+Project Git dan GitHub
+
+Project ini dibuat untuk mempelajari:
+- Perintah dasar Git
+- Commit dan Push ke GitHub
+- Manajemen repository
+
+Langkah yang telah dilakukan:
+1. Inisialisasi repository
+2. Update README
+3. Menambahkan konten project
+
